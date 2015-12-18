@@ -1,0 +1,8 @@
+F:\VS\AttendanceTracker\AttendanceTracker\bin\Release\AttendanceTracker.exe.config
+F:\VS\AttendanceTracker\AttendanceTracker\bin\Release\AttendanceTracker.exe
+F:\VS\AttendanceTracker\AttendanceTracker\bin\Release\AttendanceTracker.pdb
+F:\VS\AttendanceTracker\AttendanceTracker\obj\x86\Release\AttendanceTracker.Form1.resources
+F:\VS\AttendanceTracker\AttendanceTracker\obj\x86\Release\AttendanceTracker.Properties.Resources.resources
+F:\VS\AttendanceTracker\AttendanceTracker\obj\x86\Release\AttendanceTracker.csproj.GenerateResource.Cache
+F:\VS\AttendanceTracker\AttendanceTracker\obj\x86\Release\AttendanceTracker.exe
+F:\VS\AttendanceTracker\AttendanceTracker\obj\x86\Release\AttendanceTracker.pdb
